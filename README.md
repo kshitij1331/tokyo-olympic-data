@@ -35,6 +35,9 @@ tokyo-olympic-data/
 ---
 
 ## 🚀 Architecture
+<img width="1920" height="1080" alt="DE-Project-FLOW (2)" src="https://github.com/user-attachments/assets/462b35c4-1470-48d8-bbaf-5ddd5e23aea3" />
+
+
 
 1️⃣ **Ingestion (ADF)**  
 - CSV data loaded from local or blob → ADLS Gen2 (raw zone).
