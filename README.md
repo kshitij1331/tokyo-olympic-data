@@ -22,13 +22,15 @@ This project demonstrates **modern Azure data engineering practices** with:
 ---
 
 ## 📂 Folder Structure
+
+```plaintext
 tokyo-olympic-data/
 ├── data/            # Sample Tokyo Olympics datasets (CSV)
 ├── notebooks/       # Databricks PySpark notebooks
 ├── adf_pipelines/   # JSON exports of ADF pipelines
 └── README.md
 
-
+```
 
 ---
 
