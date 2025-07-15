@@ -134,5 +134,5 @@ tokyo-olympic-data/
 Contributions for enhancements, visuals, or pipeline optimizations are welcome! Please open a pull request or raise an issue for discussion.
 
 ---
-⭐ **If you found this project helpful, please give this repository a star!**
+⭐ **If you found this project helpful, please give this repository a starr**
 
